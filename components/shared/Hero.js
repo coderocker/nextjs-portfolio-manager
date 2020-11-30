@@ -5,11 +5,11 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <section className="fj-hero">
-      <div className="fj-hero-wrapper row">
+    <section className="hr-hero">
+      <div className="hr-hero-wrapper row">
         <div className="hero-left col-md-6">
-          <h1 className="white hero-title">Hey I'm Filip. Experienced full stack developer</h1>
-          <h2 className="white hero-subtitle">Check my portfolio and video tutorials</h2>
+          <h1 className="white hero-title">Hey I'm Hrishikesh. Experienced full stack developer</h1>
+          <h2 className="white hero-subtitle">Check my portfolio</h2>
           <div className="button-container">
             <a href="" className="btn btn-main bg-blue ttu">See my work</a>
           </div>
@@ -19,7 +19,7 @@ const Hero = () => {
             <a className="grow hero-link">
               <img
                 className="hero-image"
-                src="https://i.udemycdn.com/course/750x422/1652608_662b_8.jpg"></img>
+                src="/images/portfolioPic.jpg"></img>
             </a>
           </div>
         </div>

@@ -89,7 +89,7 @@ html {
   text-transform: uppercase;
 }
 
-.fj-mw9 {
+.hr-mw9 {
   max-width: 83rem;
 }
 
@@ -230,7 +230,7 @@ html {
   // left: 0;
 }
 
-.fj-hero {
+.hr-hero {
   padding: 80px 40px;
   display: flex;
   align-items: center;
@@ -290,8 +290,8 @@ html {
   }
 }
 
-.fj-category-container {
-  .fj-category {
+.hr-category-container {
+  .hr-category {
     display: flex;
     align-items: flex-start;
     padding: 1em;
@@ -331,7 +331,7 @@ html {
   }
 }
 
-.fj-topic-list {
+.hr-topic-list {
   table {
     font-size: 18px;
   }
@@ -362,7 +362,7 @@ html {
   }
 }
 
-.fj-post-list {
+.hr-post-list {
 
   .topic-parent {
 
@@ -544,7 +544,7 @@ html {
   background-color: #222;
   box-shadow: 0 -1px 40px rgba(0,0,0,0.12);
 
-  .fj-editor-input {
+  .hr-editor-input {
     width: 50%;
     background-color: #222;
     border: 1px solid #909090;
@@ -571,7 +571,7 @@ html {
     height: 350px;
   }
 
-  .fj-editor {
+  .hr-editor {
     display: flex;
     flex-grow: 1;
     min-height: 0;
@@ -602,7 +602,7 @@ html {
     }
   }
 
-  .fj-editor-textarea-wrapper {
+  .hr-editor-textarea-wrapper {
     flex: 1;
     background-color: #222;
     border: 1px solid #909090;
@@ -629,7 +629,7 @@ html {
     }
   }
 
-  .fj-editor-preview-wrapper {
+  .hr-editor-preview-wrapper {
     overflow: auto;
     flex: 1;
     border: 1px dashed rgba(255,255,255,0.25);
